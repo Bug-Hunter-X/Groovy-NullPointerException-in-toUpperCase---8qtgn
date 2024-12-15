@@ -1,0 +1,1 @@
+This repository demonstrates a common Groovy error: a NullPointerException when calling the `toUpperCase()` method on a String that might be null.  The `bug.groovy` file contains the erroneous code, while `bugSolution.groovy` provides a corrected version.
